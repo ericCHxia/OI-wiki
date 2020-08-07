@@ -88,7 +88,7 @@ $$
     第三个（求导）：
     
     $$
-    \begin{aligned}F(x)&=\sum_{n\ge 0}(n+1)x^n\\&=\sum_{n\ge 1}nx^{n-1}\\&=\sum_{n\ge 0}(x^n)'\\&=\left(\frac{1}{1-x}\right)'\\&=\frac{1}{(1-x)^2}\end{aligned}
+    \begin{aligned}F(x)&=\sum_{n\ge 0}(n+1)x^n\\&=\sum_{n\ge 1}nx^{n-1}\\&=\sum_{n\ge 1}(x^n)'\\&=\left(\frac{x}{1-x}\right)'\\&=\frac{1}{(1-x)^2}\end{aligned}
     $$
     
     第四个（二项式定理）：
